@@ -1,0 +1,38 @@
+name: Update daily_feed.json
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser beautifulsoup4 lxml
+
+      - name: Run feed updater
+        run: python update_feed.py
+
+      - name: Commit updated daily_feed.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily_feed.json
+          git diff --cached --quiet || git commit -m "update daily_feed.json"
+          git push
