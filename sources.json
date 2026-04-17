@@ -1,0 +1,54 @@
+{
+  "websites": [
+    {
+      "name": "a16z News",
+      "type": "rss",
+      "url": "https://www.a16z.news/feed"
+    },
+    {
+      "name": "TechCrunch Startups",
+      "type": "rss",
+      "url": "https://techcrunch.com/category/startups/feed/"
+    },
+    {
+      "name": "VC News Daily",
+      "type": "rss",
+      "url": "http://feeds.feedburner.com/vcnewsdaily"
+    },
+    {
+      "name": "YC Launches",
+      "type": "webpage",
+      "url": "https://www.ycombinator.com/launches"
+    },
+    {
+      "name": "Product Hunt",
+      "type": "rss",
+      "url": "https://www.producthunt.com/feed"
+    },
+    {
+      "name": "Sequoia Stories",
+      "type": "rss",
+      "url": "https://www.sequoiacap.com/feed/"
+    },
+    {
+      "name": "界面新闻-财经",
+      "type": "webpage",
+      "url": "https://www.jiemian.com/lists/800.html"
+    },
+    {
+      "name": "科创板日报-头条",
+      "type": "webpage",
+      "url": "https://api3.cls.cn/share/subject/1505?app=stib&os=ios&selected=&source=&sv=206"
+    },
+    {
+      "name": "36氪-首页",
+      "type": "webpage",
+      "url": "https://36kr.com/"
+    },
+    {
+      "name": "IT桔子",
+      "type": "webpage",
+      "url": "https://www.itjuzi.com/"
+    }
+  ]
+}
