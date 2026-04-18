@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T14:25:46Z",
+  "generated_at": "2026-04-18T19:56:16Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "published_at": "Fri, 17 Apr 2026 19:17:26 +0000",
-      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round."
+      "title": "AI chip startup Cerebras files for IPO",
+      "published_at": "Sat, 18 Apr 2026 19:19:11 +0000",
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Hipocampus",
-      "published_at": "2026-04-17T06:49:04-07:00",
-      "link": "https://www.producthunt.com/products/hipocampus",
-      "summary": "AI operators that own team workflows Discussion | Link"
+      "title": "CraftBot",
+      "published_at": "2026-03-28T20:14:09-07:00",
+      "link": "https://www.producthunt.com/products/craftbot",
+      "summary": "Self-hosted proactive AI assistant that lives locally Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
