@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T20:00:12Z",
+  "generated_at": "2026-04-27T07:58:18Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "QuickCompare by Trismik",
-      "published_at": "2026-04-24T07:07:21-07:00",
-      "link": "https://www.producthunt.com/products/quickcompare-by-trismik",
-      "summary": "Compare LLMs on your data, measure, and pick the best. Discussion | Link"
+      "title": "Epismo Agent Package",
+      "published_at": "2026-04-26T01:25:12-07:00",
+      "link": "https://www.producthunt.com/products/epismo",
+      "summary": "Run agent workflows the community already built Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
