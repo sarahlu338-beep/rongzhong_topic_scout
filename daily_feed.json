@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-29T07:52:04Z",
+  "generated_at": "2026-04-29T17:10:46Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Workday's Last Workday?",
-      "published_at": "Tue, 28 Apr 2026 14:03:22 GMT",
-      "link": "https://www.a16z.news/p/workdays-last-workday",
-      "summary": "HCM is the last large enterprise software category without a serious AI-native challenger, and that’s about to change"
+      "title": "Call the Plumber; We’ve Got a Leaky Abstraction",
+      "published_at": "Wed, 29 Apr 2026 14:02:41 GMT",
+      "link": "https://www.a16z.news/p/call-the-plumber-weve-got-a-leaky",
+      "summary": "A model of how things break, for non-doomers"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
-      "published_at": "Tue, 28 Apr 2026 15:33:27 +0000",
-      "link": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
-      "summary": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight."
+      "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
+      "published_at": "Wed, 29 Apr 2026 16:20:02 +0000",
+      "link": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
+      "summary": "On Wednesday, Pursuit announced a $22 million seed round led by Mike Rosengarten, the co-founder of OpenGov with out big-name VCs participating."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "UXPin Forge",
-      "published_at": "2026-04-23T05:16:07-07:00",
-      "link": "https://www.producthunt.com/products/uxpin",
-      "summary": "Generate UI from your design system, not around it Discussion | Link"
+      "title": "noirdoc",
+      "published_at": "2026-04-28T08:32:08-07:00",
+      "link": "https://www.producthunt.com/products/noirdoc",
+      "summary": "PII guard for Claude Code to keep client data out of context Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
