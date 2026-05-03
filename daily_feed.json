@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T07:30:18Z",
+  "generated_at": "2026-05-03T14:38:49Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Huddle01 VMs",
-      "published_at": "2026-04-25T11:17:26-07:00",
-      "link": "https://www.producthunt.com/products/huddle01-cloud-2",
-      "summary": "Virtual Machines for Your Agents Discussion | Link"
+      "title": "Radar",
+      "published_at": "2026-04-23T04:26:09-07:00",
+      "link": "https://www.producthunt.com/products/radar-7",
+      "summary": "The missing open-source Kubernetes UI Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
