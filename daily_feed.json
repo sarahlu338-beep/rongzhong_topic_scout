@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T07:48:24Z",
+  "generated_at": "2026-05-10T15:32:49Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "AgentPeek",
-      "published_at": "2026-05-09T15:27:11-07:00",
-      "link": "https://www.producthunt.com/products/agentpeek",
-      "summary": "Claude Code and Codex in your Mac notch Discussion | Link"
+      "title": "Tailgrids 3.0",
+      "published_at": "2026-05-02T00:08:28-07:00",
+      "link": "https://www.producthunt.com/products/tailgrids",
+      "summary": "Open-source React UI library for Tailwind and AI Workflow Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
