@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T20:10:05Z",
+  "generated_at": "2026-05-10T07:48:24Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "published_at": "Sat, 09 May 2026 14:43:30 +0000",
-      "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-      "summary": "Nvidia continues to be a big investor in the AI ecosystem."
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "published_at": "Sun, 10 May 2026 02:00:00 +0000",
+      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Staff.rip",
-      "published_at": "2026-05-08T06:43:30-07:00",
-      "link": "https://www.producthunt.com/products/staff-rip",
-      "summary": "Describe a code change in plain language and ship it Discussion | Link"
+      "title": "AgentPeek",
+      "published_at": "2026-05-09T15:27:11-07:00",
+      "link": "https://www.producthunt.com/products/agentpeek",
+      "summary": "Claude Code and Codex in your Mac notch Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
