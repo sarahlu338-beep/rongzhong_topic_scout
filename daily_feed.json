@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-13T10:01:20Z",
+  "generated_at": "2026-05-13T18:28:56Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "\"No Man Left Behind\": American Technology Ships with Our Values",
-      "published_at": "Mon, 11 May 2026 14:02:23 GMT",
-      "link": "https://www.a16z.news/p/no-man-left-behind-american-technology",
-      "summary": "China is already building autonomous weapons at scale. The question is whether America builds them first, or cedes the rules of war to Beijing."
+      "title": "Is Software Losing Its Head?",
+      "published_at": "Wed, 13 May 2026 14:01:45 GMT",
+      "link": "https://www.a16z.news/p/is-software-losing-its-head",
+      "summary": "Agents may kill muscle memory as a moat, but they do not kill operational logic and context as a moat."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
-      "published_at": "Tue, 12 May 2026 18:45:05 +0000",
-      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-      "summary": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups."
+      "title": "Anduril raises $5B, doubles valuation to $61B",
+      "published_at": "Wed, 13 May 2026 14:44:25 +0000",
+      "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+      "summary": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ScoutFox",
-      "published_at": "2026-05-12T00:11:52-07:00",
-      "link": "https://www.producthunt.com/products/scoutfox",
-      "summary": "Tracks company behavior to find early signals and outliers Discussion | Link"
+      "title": "BossHogg",
+      "published_at": "2026-05-12T18:45:29-07:00",
+      "link": "https://www.producthunt.com/products/bosshogg",
+      "summary": "Agent-first CLI for PostHog analytics and feature flags Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
