@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-13T18:28:56Z",
+  "generated_at": "2026-05-14T09:39:30Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Is Software Losing Its Head?",
-      "published_at": "Wed, 13 May 2026 14:01:45 GMT",
-      "link": "https://www.a16z.news/p/is-software-losing-its-head",
-      "summary": "Agents may kill muscle memory as a moat, but they do not kill operational logic and context as a moat."
+      "title": "Investing in Stitch",
+      "published_at": "Thu, 14 May 2026 06:01:46 GMT",
+      "link": "https://www.a16z.news/p/investing-in-stitch",
+      "summary": "a16z leads Stitch's Series A"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Anduril raises $5B, doubles valuation to $61B",
-      "published_at": "Wed, 13 May 2026 14:44:25 +0000",
-      "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
-      "summary": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says."
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "published_at": "Thu, 14 May 2026 05:24:39 +0000",
+      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "DeepInfra Raises $107M Series B",
-      "published_at": "12 May 2026 16:24:32 CDT",
-      "link": "https://vcnewsdaily.com/deepinfra/venture-capital-funding/smtprlqnxz",
-      "summary": "DeepInfra, a startup building the infrastructure layer for the next generation of AI, has announced $107 million in Series B funding"
+      "title": "BranchLab Scores $26M Series A",
+      "published_at": "13 May 2026 14:27:40 CDT",
+      "link": "https://vcnewsdaily.com/branchlab/venture-capital-funding/zrywcqjxwt",
+      "summary": "BOULDER, CO, BranchLab, an AI platform transforming how pharmaceutical companies commercialize therapies, announced a $26 million Series A financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "BossHogg",
-      "published_at": "2026-05-12T18:45:29-07:00",
-      "link": "https://www.producthunt.com/products/bosshogg",
-      "summary": "Agent-first CLI for PostHog analytics and feature flags Discussion | Link"
+      "title": "PTOFlow",
+      "published_at": "2026-05-06T16:07:27-07:00",
+      "link": "https://www.producthunt.com/products/ptoflow",
+      "summary": "Manage PTO in Slack and Google Calendar Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
