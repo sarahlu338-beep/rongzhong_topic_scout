@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-15T14:02:30Z",
+  "generated_at": "2026-05-15T19:26:56Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "From “System of Record” to “System of Intelligence”",
-      "published_at": "Thu, 14 May 2026 14:03:09 GMT",
-      "link": "https://www.a16z.news/p/from-system-of-record-to-system-of",
-      "summary": "The reasoning layer that sits above the database, and that increasingly treats the database as infrastructure, is where a new generation of companies is being built."
+      "title": "Charts of the Week: Memory to the Moon",
+      "published_at": "Fri, 15 May 2026 14:01:39 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-memory-to-the",
+      "summary": "Affirm’s AI Turn; Shrinking SmallCaps; California’s Healthcare Jobmaker"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Meridian Ventures launched $35M fund to back MBA-deferred founders",
-      "published_at": "Fri, 15 May 2026 13:00:00 +0000",
-      "link": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
-      "summary": "Meridian Ventures, the venture firm founded by Devon Gethers and Karlton Haney, announced on Friday the raise of a $35 million second fund to back pre-seed and seed-stage companies founded by those who have deferred MBAs."
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "published_at": "Fri, 15 May 2026 19:24:16 +0000",
+      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "equipifi Scores $34M Series B Financing",
-      "published_at": "14 May 2026 14:57:22 CDT",
-      "link": "https://vcnewsdaily.com/equipifi/venture-capital-funding/mzxkrtqkyj",
-      "summary": "SCOTTSDALE, AZ, equipifi, the fintech platform enabling banks and credit unions to offer flexible payment solutions natively within their digital banking experience, has announced the close of its $34-million Series B."
+      "title": "Avant Genomics Inks $3M+ Financing",
+      "published_at": "15 May 2026 13:38:29 CDT",
+      "link": "https://vcnewsdaily.com/avant-genomics/venture-capital-funding/blysdmtqff",
+      "summary": "CHARLOTTESVILLE, VA, Avant Genomics, a pioneer in fully-automated liquid biopsy sample preparation for precision cancer detection, announced the successful raise of more than $3 million to advance development of its automated platform for liquid biopsy sample preparation"
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "OpenHuman",
-      "published_at": "2026-05-01T09:39:53-07:00",
-      "link": "https://www.producthunt.com/products/openhuman",
-      "summary": "An open source AI harness built with the human in mind Discussion | Link"
+      "title": "PHBench",
+      "published_at": "2026-05-11T11:22:01-07:00",
+      "link": "https://www.producthunt.com/products/vela-terminal",
+      "summary": "Predict the next Series A from a ProductHunt launch Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
