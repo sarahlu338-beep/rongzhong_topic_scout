@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T02:43:32Z",
+  "generated_at": "2026-05-16T08:01:45Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Atter AI",
-      "published_at": "2026-05-14T03:15:38-07:00",
-      "link": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
-      "summary": "AI transcription app that turns meetings into action items Discussion | Link"
+      "title": "M5Stack PaperColor",
+      "published_at": "2026-05-15T07:37:56-07:00",
+      "link": "https://www.producthunt.com/products/m5stack",
+      "summary": "4-inch color E-ink dev board with ESP32 and audio I/O Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
