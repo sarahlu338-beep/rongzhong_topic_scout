@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T09:28:44Z",
+  "generated_at": "2026-05-20T14:58:19Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "published_at": "Tue, 19 May 2026 21:08:51 +0000",
-      "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts."
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "published_at": "Wed, 20 May 2026 14:00:00 +0000",
+      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Re_gent",
-      "published_at": "2026-05-14T05:19:20-07:00",
-      "link": "https://www.producthunt.com/products/re_gent",
-      "summary": "Version Control for AI agent Activity Discussion | Link"
+      "title": "GhostSnap",
+      "published_at": "2026-05-19T06:13:18-07:00",
+      "link": "https://www.producthunt.com/products/ghostsnap",
+      "summary": "Take multiple screenshots that are auto compressed for AI Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
