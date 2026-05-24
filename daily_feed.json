@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T03:24:46Z",
+  "generated_at": "2026-05-24T08:26:49Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "note.md",
-      "published_at": "2026-05-22T02:27:42-07:00",
-      "link": "https://www.producthunt.com/products/note-md",
-      "summary": "Local-first markdown based workspace for research writings Discussion | Link"
+      "title": "ModelHub",
+      "published_at": "2026-05-22T09:29:50-07:00",
+      "link": "https://www.producthunt.com/products/modelhub",
+      "summary": "The missing menu bar app for local LLMs on Mac. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
