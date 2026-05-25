@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T19:14:18Z",
+  "generated_at": "2026-05-25T03:36:26Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Runway Agent",
-      "published_at": "2026-05-13T20:37:40-07:00",
-      "link": "https://www.producthunt.com/products/runway-agent",
-      "summary": "Generate edited, sound-designed videos via chat Discussion | Link"
+      "title": "ModelHub",
+      "published_at": "2026-05-22T09:29:50-07:00",
+      "link": "https://www.producthunt.com/products/modelhub",
+      "summary": "The missing menu bar app for local LLMs on Mac. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
