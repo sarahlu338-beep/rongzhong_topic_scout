@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T14:59:20Z",
+  "generated_at": "2026-05-29T20:22:25Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-      "published_at": "Fri, 29 May 2026 14:15:00 +0000",
-      "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry."
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "published_at": "Fri, 29 May 2026 17:27:13 +0000",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Clipline",
-      "published_at": "2026-05-28T07:56:30-07:00",
-      "link": "https://www.producthunt.com/products/clipline-2",
-      "summary": "AI Video Cutter for viral Shorts, Reels, TikTok in Telegram Discussion | Link"
+      "title": "GPS",
+      "published_at": "2026-05-28T08:05:48-07:00",
+      "link": "https://www.producthunt.com/products/gps-2",
+      "summary": "Memory layer for LLMs that stores repo rules + past lessons Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
