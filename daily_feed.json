@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T20:22:25Z",
+  "generated_at": "2026-05-30T02:51:25Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "published_at": "Fri, 29 May 2026 17:27:13 +0000",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
       "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Signos Bags $20M Funding",
-      "published_at": "28 May 2026 15:55:30 CDT",
-      "link": "https://vcnewsdaily.com/signos/venture-capital-funding/glzsycgjrp",
-      "summary": "PALO ALTO, CA, Signos, the company behind the first FDA-cleared, over-the-counter glucose monitoring system for weight management, announced a $20 million funding."
+      "title": "Kubera Health Raises $6.5M Seed Round",
+      "published_at": "29 May 2026 15:00:55 CDT",
+      "link": "https://vcnewsdaily.com/kubera-health/venture-capital-funding/ywpqlgmnzs",
+      "summary": "NEW YORK, NY, Kubera Health announced it has raised $6.5 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "GPS",
-      "published_at": "2026-05-28T08:05:48-07:00",
-      "link": "https://www.producthunt.com/products/gps-2",
-      "summary": "Memory layer for LLMs that stores repo rules + past lessons Discussion | Link"
+      "title": "RabbitTravel",
+      "published_at": "2026-05-28T03:34:41-07:00",
+      "link": "https://www.producthunt.com/products/rabbittravel",
+      "summary": "Smart travel planning made effortless Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
