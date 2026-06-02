@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T03:43:06Z",
+  "generated_at": "2026-06-02T10:19:47Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Tokenwise",
-      "published_at": "2026-05-31T07:36:39-07:00",
-      "link": "https://www.producthunt.com/products/tokenwise",
-      "summary": "A smart LLM proxy that shows where you're overpaying Discussion | Link"
+      "title": "Moxie Docs",
+      "published_at": "2026-05-31T17:07:00-07:00",
+      "link": "https://www.producthunt.com/products/moxie-docs",
+      "summary": "Living docs + MCP context for your GitHub repos Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
