@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-04T09:53:04Z",
+  "generated_at": "2026-06-04T14:55:10Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "A Functional Taxonomy of World Models",
-      "published_at": "Wed, 03 Jun 2026 17:46:24 GMT",
-      "link": "https://www.a16z.news/p/a-functional-taxonomy-of-world-models",
-      "summary": "Renderers, Simulators, Planners, and the Loop That Connects Them"
+      "title": "A16Z's Global Mission",
+      "published_at": "Thu, 04 Jun 2026 13:25:38 GMT",
+      "link": "https://www.a16z.news/p/a16zs-global-mission",
+      "summary": "Mission and call to help not just founders, but America and her allies"
     },
     {
       "source": "TechCrunch Startups",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Chloe by Close",
-      "published_at": "2026-06-02T14:02:10-07:00",
-      "link": "https://www.producthunt.com/products/close",
-      "summary": "AI agent built into your CRM who works leads for you Discussion | Link"
+      "title": "Google Gemma 4 12B",
+      "published_at": "2026-06-03T09:15:55-07:00",
+      "link": "https://www.producthunt.com/products/gemma-4-12b",
+      "summary": "Run multimodal AI locally with an encoder-free architecture Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
