@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T20:07:20Z",
+  "generated_at": "2026-06-13T03:31:00Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Dapple Closes $30M Seed Funding",
-      "published_at": "12 Jun 2026 13:43:11 CDT",
-      "link": "https://vcnewsdaily.com/dapple/venture-capital-funding/kfpkpsqgkg",
-      "summary": "CHICAGO, IL, Dapple, the operating system for AI infrastructure, announced the close of a $30 million seed funding round."
+      "title": "Jedify Raises $24 Million in Series A",
+      "published_at": "12 Jun 2026 16:18:06 CDT",
+      "link": "https://vcnewsdaily.com/jedify/venture-capital-funding/gvcmbmbvlb",
+      "summary": "NEW YORK, NY, Jedify, the autonomous context graph for data-intensive agentic applications and workflows, announced $24 million in Series A funding led by Norwest."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Qursor",
-      "published_at": "2026-06-11T23:12:20-07:00",
-      "link": "https://www.producthunt.com/products/qursor",
-      "summary": "Point at any UI to send exact context to your AI Discussion | Link"
+      "title": "CueBuddy",
+      "published_at": "2026-06-11T20:34:08-07:00",
+      "link": "https://www.producthunt.com/products/cuebuddy",
+      "summary": "Record talking videos without manual scrolling Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
