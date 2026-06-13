@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T13:54:38Z",
+  "generated_at": "2026-06-13T19:22:11Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Jedify Raises $24 Million in Series A",
-      "published_at": "12 Jun 2026 16:18:06 CDT",
-      "link": "https://vcnewsdaily.com/jedify/venture-capital-funding/gvcmbmbvlb",
-      "summary": "NEW YORK, NY, Jedify, the autonomous context graph for data-intensive agentic applications and workflows, announced $24 million in Series A funding led by Norwest."
+      "title": "ChatSee.ai Raises $6.5M Funding Round",
+      "published_at": "13 Jun 2026 12:46:46 CDT",
+      "link": "https://vcnewsdaily.com/chatsee.ai/venture-capital-funding/kqmmfsjztf",
+      "summary": "SAN FRANCISCO, CA, ChatSee.ai, which provides the failure intelligence layer for autonomous AI systems, announced a $6.5 million funding round led by True Ventures."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Prometheus by Firecrawl",
-      "published_at": "2026-06-12T15:29:57-07:00",
-      "link": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "summary": "A Forward Deployed Agent for web data. Discussion | Link"
+      "title": "Vercel Drop",
+      "published_at": "2026-06-12T14:49:02-07:00",
+      "link": "https://www.producthunt.com/products/vercel",
+      "summary": "Drop it. It's live. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
