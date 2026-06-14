@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T19:22:11Z",
+  "generated_at": "2026-06-14T03:50:45Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "published_at": "Sat, 13 Jun 2026 04:14:19 +0000",
-      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "published_at": "Sun, 14 Jun 2026 03:00:00 +0000",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Vercel Drop",
-      "published_at": "2026-06-12T14:49:02-07:00",
-      "link": "https://www.producthunt.com/products/vercel",
-      "summary": "Drop it. It's live. Discussion | Link"
+      "title": "Prometheus by Firecrawl",
+      "published_at": "2026-06-12T15:29:57-07:00",
+      "link": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "summary": "A Forward Deployed Agent for web data. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
