@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-16T16:47:07Z",
+  "generated_at": "2026-06-16T20:47:41Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "SpaceX & the Sentient Sun",
-      "published_at": "Mon, 15 Jun 2026 14:01:50 GMT",
-      "link": "https://www.a16z.news/p/spacex-and-the-sentient-sun",
-      "summary": "Earth is the cradle of humanity, and you cannot stay in the cradle forever."
+      "title": "The a16z CFO Community",
+      "published_at": "Tue, 16 Jun 2026 17:29:14 GMT",
+      "link": "https://www.a16z.news/p/the-a16z-cfo-community",
+      "summary": "A place to pressure-test the decisions you can't put in a board deck"
     },
     {
       "source": "TechCrunch Startups",
@@ -15,7 +15,7 @@
       "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
       "published_at": "Tue, 16 Jun 2026 15:35:39 +0000",
       "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
-      "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner."
+      "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "PrompTessor",
-      "published_at": "2026-06-09T05:47:07-07:00",
-      "link": "https://www.producthunt.com/products/promptessor",
-      "summary": "AI Prompt Generator, Optimizer & Library Discussion | Link"
+      "title": "Stride",
+      "published_at": "2026-06-06T04:14:10-07:00",
+      "link": "https://www.producthunt.com/products/stride-10",
+      "summary": "The AI workspace that plans, designs and ships with you. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
