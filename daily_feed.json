@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T20:09:54Z",
+  "generated_at": "2026-06-18T03:41:43Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-      "published_at": "Wed, 17 Jun 2026 17:43:07 +0000",
-      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch."
+      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "published_at": "Wed, 17 Jun 2026 18:00:00 +0000",
+      "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard. This tension between […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Convey Lands $38 Million Series A",
-      "published_at": "17 Jun 2026 14:07:06 CDT",
-      "link": "https://vcnewsdaily.com/convey-ai/venture-capital-funding/tptqcqcmyd",
-      "summary": "SAN FRANCISCO, CA, Convey, the enterprise AI platform that enables non-technical operators to build and manage digital teammates, announced $38 million in Series A funding."
+      "title": "Clario Launches with $6M Seed Funding",
+      "published_at": "17 Jun 2026 15:22:47 CDT",
+      "link": "https://vcnewsdaily.com/clario/venture-capital-funding/flxgbwdkwc",
+      "summary": "MENLO PARK, CA, Clario, the first platform built to eliminate enterprise data ROT, launched from stealth with $6 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Android 17",
-      "published_at": "2026-06-16T21:27:25-07:00",
-      "link": "https://www.producthunt.com/products/android",
-      "summary": "Android becomes an intelligence system Discussion | Link"
+      "title": "Redactify",
+      "published_at": "2026-06-16T18:07:19-07:00",
+      "link": "https://www.producthunt.com/products/redactify",
+      "summary": "Automated profanity censoring for video & audio Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
