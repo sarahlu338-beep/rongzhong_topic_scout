@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T02:58:05Z",
+  "generated_at": "2026-06-25T08:58:08Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Ruby",
-      "published_at": "2026-06-23T22:43:46-07:00",
-      "link": "https://www.producthunt.com/products/ruby-7",
-      "summary": "Ask better questions, live on every call Discussion | Link"
+      "title": "BrowserBash",
+      "published_at": "2026-06-23T00:54:57-07:00",
+      "link": "https://www.producthunt.com/products/browserbash",
+      "summary": "CLI that turns plain-English into real browser tests Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
