@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:57:17Z",
+  "generated_at": "2026-06-26T03:29:03Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Sail Research Pulls In $80M Seed and Series A",
-      "published_at": "25 Jun 2026 11:22:05 CDT",
-      "link": "https://vcnewsdaily.com/sail-research/venture-capital-funding/srnscnfpbg",
-      "summary": "SAN FRANCISCO, CA, Sail Research, the infrastructure company purpose-built for long-horizon AI agents, today announced it has raised $80 million in Seed and Series A funding at a $450 million valuation."
+      "title": "Sazabi Raises $8M Seed Round",
+      "published_at": "25 Jun 2026 15:00:34 CDT",
+      "link": "https://vcnewsdaily.com/sazabi/venture-capital-funding/ksqdpwnllg",
+      "summary": "SAN FRANCISCO, CA, Sazabi, the AI-native observability platform for fast-moving engineering teams, today announced an $8 million seed financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Brain² by ClickUp",
-      "published_at": "2026-06-19T15:33:45-07:00",
-      "link": "https://www.producthunt.com/products/clickup",
-      "summary": "One AI that knows your entire company and acts on it Discussion | Link"
+      "title": "Polygraph",
+      "published_at": "2026-06-24T00:52:07-07:00",
+      "link": "https://www.producthunt.com/products/polygraph",
+      "summary": "Let AI agents see cross repo and maintain session memory. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
