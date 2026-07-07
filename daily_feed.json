@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:52:19Z",
+  "generated_at": "2026-07-07T02:51:44Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "OXMIQ Raises $35 Million Series A Funding",
-      "published_at": "03 Jul 2026 08:33:57 CDT",
-      "link": "https://vcnewsdaily.com/oxmiq-labs/venture-capital-funding/yjlpwhqrtb",
-      "summary": "CAMPBELL, CA, OXMIQ Labs Inc., a unified GPU and AI architecture company founded by Raja Koduri, closed its $35 million Series A financing."
+      "title": "NALA Membranes Receives Investment",
+      "published_at": "06 Jul 2026 16:46:38 CDT",
+      "link": "https://vcnewsdaily.com/nala-membranes/venture-capital-funding/lqzwnpdbmc",
+      "summary": "MORRISVILLE, NC, Flathead Forge Fund 1 has invested in NALA Membranes, a North Carolina developer of chlorine-stable membranes for industrial water purification and reuse."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Stanley Studio",
-      "published_at": "2026-07-05T20:37:29-07:00",
-      "link": "https://www.producthunt.com/products/stanley-studio",
-      "summary": "The AI video editor you hire that edits like a human Discussion | Link"
+      "title": "Edgee Claude Code Compressor V2",
+      "published_at": "2026-07-02T21:38:17-07:00",
+      "link": "https://www.producthunt.com/products/edgee",
+      "summary": "Fewer tokens, same context, 50% cost reduction Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
