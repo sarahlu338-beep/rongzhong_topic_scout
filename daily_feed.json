@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T13:58:58Z",
+  "generated_at": "2026-07-08T19:21:21Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "published_at": "Wed, 08 Jul 2026 08:00:00 +0000",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "published_at": "Wed, 08 Jul 2026 17:47:55 +0000",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Quaise Nabs $134M Series B Financing",
-      "published_at": "07 Jul 2026 14:26:54 CDT",
-      "link": "https://vcnewsdaily.com/quaise/venture-capital-funding/fzpzxzlccf",
-      "summary": "HOUSTON, TX, Quaise Energy, a leading developer of utility-scale superhot geothermal energy, today announced the first close of its Series B financing."
+      "title": "Beeline Medicines Inks Upsized Series A of $426.3M",
+      "published_at": "08 Jul 2026 10:03:50 CDT",
+      "link": "https://vcnewsdaily.com/beeline-medicines/venture-capital-funding/kshbggvxcw",
+      "summary": "BOSTON, MA, Beeline Medicines Corporation, a clinical-stage biotechnology company, announced the closing of a $126.3 million Series A extension."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "IvyForms",
-      "published_at": "2026-06-30T10:43:08-07:00",
-      "link": "https://www.producthunt.com/products/ivyforms",
-      "summary": "A WordPress form builder for real workflows Discussion | Link"
+      "title": "Orbit for Mac",
+      "published_at": "2026-07-07T23:52:08-07:00",
+      "link": "https://www.producthunt.com/products/orbit-for-mac",
+      "summary": "Every Google account, in a single window Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
