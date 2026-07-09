@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T09:35:22Z",
+  "generated_at": "2026-07-09T14:53:28Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "published_at": "Wed, 08 Jul 2026 22:41:33 +0000",
-      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported."
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "published_at": "Thu, 09 Jul 2026 13:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Opper AI",
-      "published_at": "2026-07-06T09:51:59-07:00",
-      "link": "https://www.producthunt.com/products/opper-ai",
-      "summary": "The european AI gateway for agents Discussion | Link"
+      "title": "Timbal AI",
+      "published_at": "2026-06-22T02:20:29-07:00",
+      "link": "https://www.producthunt.com/products/timbal-ai",
+      "summary": "Build AI agents, workflows, and apps in one stack Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -63,7 +63,7 @@
       "title": "科创板日报-头条",
       "published_at": "",
       "link": "https://api3.cls.cn/share/subject/1505?app=stib&os=ios&selected=&source=&sv=206",
-      "summary": "WEBPAGE_ERROR: The read operation timed out"
+      "summary": ""
     },
     {
       "source": "36氪-首页",
