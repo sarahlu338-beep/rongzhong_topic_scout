@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T02:44:50Z",
+  "generated_at": "2026-07-09T09:35:22Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Earlytrade Nabs $25M",
-      "published_at": "08 Jul 2026 19:10:01 CDT",
-      "link": "https://vcnewsdaily.com/earlytrade/venture-capital-funding/klggvdgtbh",
-      "summary": "DENVER, CO, Earlytrade, the global fintech platform transforming working capital management for the construction industry, announced funding, bringing the total raised to $25 million, including its Series A round."
+      "title": "Netris Receives $15M Series A Financing",
+      "published_at": "08 Jul 2026 21:08:22 CDT",
+      "link": "https://vcnewsdaily.com/netris/venture-capital-funding/zspzpptzdx",
+      "summary": "SANTA CLARA, CA, Netris, the leading provider of network automation and multi-tenancy for AI infrastructure, has announced a $15 million Series A round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Compendium",
-      "published_at": "2026-07-07T01:15:49-07:00",
-      "link": "https://www.producthunt.com/products/compendium-2",
-      "summary": "Keeping your team, agents, and data on one page Discussion | Link"
+      "title": "Opper AI",
+      "published_at": "2026-07-06T09:51:59-07:00",
+      "link": "https://www.producthunt.com/products/opper-ai",
+      "summary": "The european AI gateway for agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -63,7 +63,7 @@
       "title": "科创板日报-头条",
       "published_at": "",
       "link": "https://api3.cls.cn/share/subject/1505?app=stib&os=ios&selected=&source=&sv=206",
-      "summary": ""
+      "summary": "WEBPAGE_ERROR: The read operation timed out"
     },
     {
       "source": "36氪-首页",
