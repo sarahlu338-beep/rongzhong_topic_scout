@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:20:19Z",
+  "generated_at": "2026-07-10T19:23:50Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "published_at": "Thu, 09 Jul 2026 22:08:58 +0000",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
+      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+      "published_at": "Fri, 10 Jul 2026 15:00:09 +0000",
+      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+      "summary": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "PlugThis",
-      "published_at": "2026-07-06T05:06:48-07:00",
-      "link": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
-      "summary": "Like Lovable, but for Chrome extensions Discussion | Link"
+      "title": "Muse Spark 1.1 by Meta AI",
+      "published_at": "2026-07-09T08:01:28-07:00",
+      "link": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+      "summary": "Multimodal reasoning model built for agentic tasks Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
