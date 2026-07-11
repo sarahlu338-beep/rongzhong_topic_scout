@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T02:26:36Z",
+  "generated_at": "2026-07-11T07:51:22Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ChatCut",
-      "published_at": "2026-07-08T23:50:16-07:00",
-      "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "summary": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link"
+      "title": "Kickbacks CLI",
+      "published_at": "2026-07-06T19:18:04-07:00",
+      "link": "https://www.producthunt.com/products/kickbacks-cli",
+      "summary": "The terminal and Mac menu bar companion for Kickbacks.ai Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
