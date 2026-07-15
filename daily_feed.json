@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:04:32Z",
+  "generated_at": "2026-07-15T13:38:23Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "published_at": "Tue, 14 Jul 2026 16:45:23 +0000",
-      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "published_at": "Wed, 15 Jul 2026 13:10:47 +0000",
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ccshare",
-      "published_at": "2026-07-14T01:43:39-07:00",
-      "link": "https://www.producthunt.com/products/ccshare",
-      "summary": "multiplayer claude code Discussion | Link"
+      "title": "V2Fun",
+      "published_at": "2026-07-02T04:20:04-07:00",
+      "link": "https://www.producthunt.com/products/v2fun",
+      "summary": "Generate 3D character with 8K textures and AI motion capture Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
