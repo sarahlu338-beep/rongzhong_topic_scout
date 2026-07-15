@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T13:38:23Z",
+  "generated_at": "2026-07-15T19:06:40Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "You Just Hired a Million Bad Employees",
-      "published_at": "Tue, 14 Jul 2026 16:33:49 GMT",
-      "link": "https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops",
-      "summary": "For the first time in history, humans are cheaper than software"
+      "title": "Banning AI in Law School: We've Seen This Before",
+      "published_at": "Wed, 15 Jul 2026 14:00:41 GMT",
+      "link": "https://www.a16z.news/p/banning-ai-in-law-school-weve-seen",
+      "summary": "Preemptive regulation is the enemy of progress"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
-      "published_at": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "published_at": "Wed, 15 Jul 2026 17:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "410 Medical Receives $12M Funding Round",
-      "published_at": "14 Jul 2026 15:01:58 CDT",
-      "link": "https://vcnewsdaily.com/410-medical/venture-capital-funding/gpqflqsnfx",
-      "summary": "DURHAM, NC, 410 Medical, a medical device company focused on innovative technologies for emergency and critical care, today announced the completion of a $12 million financing round."
+      "title": "TYLsemi Launches With $43M",
+      "published_at": "15 Jul 2026 12:39:11 CDT",
+      "link": "https://vcnewsdaily.com/tylsemi/venture-capital-funding/jptygfzswv",
+      "summary": "SAN JOSE, CA, TYLsemi emerged from stealth and announced the closing of an oversubscribed $43 million early-stage funding round to accelerate the development of AI infrastructure."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "V2Fun",
-      "published_at": "2026-07-02T04:20:04-07:00",
-      "link": "https://www.producthunt.com/products/v2fun",
-      "summary": "Generate 3D character with 8K textures and AI motion capture Discussion | Link"
+      "title": "Campus",
+      "published_at": "2026-07-08T09:46:51-07:00",
+      "link": "https://www.producthunt.com/products/flutterflow",
+      "summary": "One project space for humans and AI agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
