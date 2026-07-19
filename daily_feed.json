@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T02:28:42Z",
+  "generated_at": "2026-07-19T08:12:22Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ZooData",
-      "published_at": "2026-07-07T02:57:18-07:00",
-      "link": "https://www.producthunt.com/products/zoodata",
-      "summary": "The data layer for AI agents Discussion | Link"
+      "title": "BaseRT - Apple M5 Optimized",
+      "published_at": "2026-07-18T01:15:22-07:00",
+      "link": "https://www.producthunt.com/products/basert",
+      "summary": "6.4x faster than llama.cpp, 3.9x faster than MLX Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
