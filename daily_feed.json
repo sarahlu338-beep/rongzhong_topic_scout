@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:12:22Z",
+  "generated_at": "2026-07-19T13:12:32Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "BaseRT - Apple M5 Optimized",
-      "published_at": "2026-07-18T01:15:22-07:00",
-      "link": "https://www.producthunt.com/products/basert",
-      "summary": "6.4x faster than llama.cpp, 3.9x faster than MLX Discussion | Link"
+      "title": "Spycost",
+      "published_at": "2026-06-26T02:13:16-07:00",
+      "link": "https://www.producthunt.com/products/spycost",
+      "summary": "Fell for a discount again? Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
