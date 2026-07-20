@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T02:43:59Z",
+  "generated_at": "2026-07-20T08:53:33Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "BaseRT",
-      "published_at": "2026-07-18T01:15:22-07:00",
-      "link": "https://www.producthunt.com/products/basert",
-      "summary": "6.4x faster than llama.cpp, 3.9x faster than MLX Discussion | Link"
+      "title": "Fuzzy AI",
+      "published_at": "2026-06-22T23:13:24-07:00",
+      "link": "https://www.producthunt.com/products/fuzzy-ai-2",
+      "summary": "We warm your prospects before reaching out Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,10 +52,10 @@
     {
       "source": "界面新闻-财经",
       "type": "website",
-      "title": "界面新闻-财经",
+      "title": "财经_界面新闻",
       "published_at": "",
       "link": "https://www.jiemian.com/lists/800.html",
-      "summary": "WEBPAGE_ERROR: <urlopen error _ssl.c:999: The handshake operation timed out>"
+      "summary": "width=device-width, initial-scale=1.0\" name=\"viewport\"> <meta content="
     },
     {
       "source": "科创板日报-头条",
