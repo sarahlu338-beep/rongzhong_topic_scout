@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T02:27:12Z",
+  "generated_at": "2026-07-21T08:24:40Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Autoplot",
-      "published_at": "2026-07-19T15:29:54-07:00",
-      "link": "https://www.producthunt.com/products/autoplot",
-      "summary": "Unify data analysis and plotting in one powerful workspace Discussion | Link"
+      "title": "Topolines",
+      "published_at": "2026-07-20T17:32:06-07:00",
+      "link": "https://www.producthunt.com/products/topolines",
+      "summary": "Generate Topologic contours Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -63,7 +63,7 @@
       "title": "科创板日报-头条",
       "published_at": "",
       "link": "https://api3.cls.cn/share/subject/1505?app=stib&os=ios&selected=&source=&sv=206",
-      "summary": ""
+      "summary": "WEBPAGE_ERROR: The read operation timed out"
     },
     {
       "source": "36氪-首页",
