@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:25:22Z",
+  "generated_at": "2026-07-23T13:50:53Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "CrawlRaven",
-      "published_at": "2026-07-22T22:41:03-07:00",
-      "link": "https://www.producthunt.com/products/crawlraven",
-      "summary": "SEO Hub for GSC + GA4 + a 200-point crawl Discussion | Link"
+      "title": "AgentLoop",
+      "published_at": "2026-07-22T06:17:11-07:00",
+      "link": "https://www.producthunt.com/products/agentloop-2",
+      "summary": "Starts a fresh Codex worker and critic every cycle Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
