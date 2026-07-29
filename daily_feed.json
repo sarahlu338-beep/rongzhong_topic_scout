@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-29T08:36:04Z",
+  "generated_at": "2026-07-29T14:04:08Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Next AI Moat Isn’t a Better Model",
-      "published_at": "Tue, 28 Jul 2026 14:02:56 GMT",
-      "link": "https://www.a16z.news/p/the-next-ai-moat-isnt-a-better-model",
-      "summary": "Everyone is betting on bigger models. But with physical AI, the intelligence isn’t the multiplier. Learning is."
+      "title": "Building Worlds That Train Robots",
+      "published_at": "Wed, 29 Jul 2026 14:01:02 GMT",
+      "link": "https://www.a16z.news/p/building-worlds-that-train-robots",
+      "summary": "Real-to-sim-to-real (R2S2R) as a scalable engine for training and evaluating robot policies"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "published_at": "Tue, 28 Jul 2026 21:29:34 +0000",
-      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "published_at": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "EQK 3.0",
-      "published_at": "2026-07-21T04:15:17-07:00",
-      "link": "https://www.producthunt.com/products/eqk-eq-with-ai",
-      "summary": "Mac app with dynamic AI Equaliser Discussion | Link"
+      "title": "SoundGate Guitar",
+      "published_at": "2026-07-05T15:03:44-07:00",
+      "link": "https://www.producthunt.com/products/soundgate-guitar-app",
+      "summary": "AI Music Tutor that gives real-time feedback on your playing Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
