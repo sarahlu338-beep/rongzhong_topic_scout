@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-30T13:53:11Z",
+  "generated_at": "2026-07-30T19:21:18Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Building Worlds That Train Robots",
-      "published_at": "Wed, 29 Jul 2026 14:01:02 GMT",
-      "link": "https://www.a16z.news/p/building-worlds-that-train-robots",
-      "summary": "Real-to-sim-to-real (R2S2R) as a scalable engine for training and evaluating robot policies"
+      "title": "The Hidden Math of Behavioral Health",
+      "published_at": "Thu, 30 Jul 2026 14:04:06 GMT",
+      "link": "https://www.a16z.news/p/the-hidden-math-of-behavioral-health",
+      "summary": "Behavioral care is booming. Getting paid for it is the hard part."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
-      "published_at": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-      "summary": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners."
+      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+      "published_at": "Thu, 30 Jul 2026 17:50:11 +0000",
+      "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+      "summary": "Add another member to the fast-and-furious AI unicorn club: Simile"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Adjuvia Therapeutics Closes $8 Million Seed Round",
-      "published_at": "29 Jul 2026 16:24:06 CDT",
-      "link": "https://vcnewsdaily.com/adjuvia-therapeutics/venture-capital-funding/fmndtjzwxw",
-      "summary": "SAN FRANCISCO, CA, Adjuvia Therapeutics, a biotechnology company, announced the closing of an $8 million Series Seed financing."
+      "title": "Onyx Security Inks $113M Series B Financing",
+      "published_at": "30 Jul 2026 11:00:52 CDT",
+      "link": "https://vcnewsdaily.com/onyx-security/venture-capital-funding/ykjfyxqjyn",
+      "summary": "NEW YORK, NY, Onyx Security, the AI control company, has announced a $113 million Series B funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "SKI",
-      "published_at": "2026-07-28T03:29:37-07:00",
-      "link": "https://www.producthunt.com/products/ski",
-      "summary": "Free voice coding for Claude Code, Codex and more Discussion | Link"
+      "title": "AI Search Console",
+      "published_at": "2026-07-03T05:43:30-07:00",
+      "link": "https://www.producthunt.com/products/ai-search-console",
+      "summary": "Prompt analytics and citation mapping for AI search Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
