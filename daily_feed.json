@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T02:34:54Z",
+  "generated_at": "2026-07-31T08:45:29Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Expert Chase for iOS & Android",
-      "published_at": "2026-07-08T15:09:29-07:00",
-      "link": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-      "summary": "Where human life runs with AI Discussion | Link"
+      "title": "TraceLLM",
+      "published_at": "2026-07-29T07:43:16-07:00",
+      "link": "https://www.producthunt.com/products/tracellm",
+      "summary": "OpenTelemetry for production AI applications Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
