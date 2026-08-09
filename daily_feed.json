@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:52:05Z",
+  "generated_at": "2026-08-09T12:43:10Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Toolport",
-      "published_at": "2026-08-07T13:20:13-07:00",
-      "link": "https://www.producthunt.com/products/conduit-12",
-      "summary": "Every tool, one port. One MCP setup for all your AI agents Discussion | Link"
+      "title": "DocsAlot CLI",
+      "published_at": "2026-08-07T12:43:09-07:00",
+      "link": "https://www.producthunt.com/products/docsalot-2",
+      "summary": "Let Claude or Codex create and maintain good looking docs Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
