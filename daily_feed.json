@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:31:51Z",
+  "generated_at": "2026-08-15T18:23:53Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "published_at": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "published_at": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Inferock Bench",
-      "published_at": "2026-08-11T14:37:44-07:00",
-      "link": "https://www.producthunt.com/products/inferock-bench",
-      "summary": "An independent receipt for every LLM API call Discussion | Link"
+      "title": "Talvo",
+      "published_at": "2026-08-13T08:04:29-07:00",
+      "link": "https://www.producthunt.com/products/talvo-2",
+      "summary": "Connect 2,500+ European banks to track your spending Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
