@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:32:38Z",
+  "generated_at": "2026-08-15T12:31:51Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Munder Difflin",
-      "published_at": "2026-08-12T06:04:54-07:00",
-      "link": "https://www.producthunt.com/products/munder-difflin",
-      "summary": "Make clones with Claude Code and Codex to do your work Discussion | Link"
+      "title": "Inferock Bench",
+      "published_at": "2026-08-11T14:37:44-07:00",
+      "link": "https://www.producthunt.com/products/inferock-bench",
+      "summary": "An independent receipt for every LLM API call Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
