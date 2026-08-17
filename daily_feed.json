@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:23:30Z",
+  "generated_at": "2026-08-17T01:05:47Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "published_at": "Sat, 15 Aug 2026 16:30:00 +0000",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "published_at": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Blume",
-      "published_at": "2026-07-19T00:21:48-07:00",
-      "link": "https://www.producthunt.com/products/blume-3",
-      "summary": "AI-ready, Markdown-first documentation framework Discussion | Link"
+      "title": "Vidaya",
+      "published_at": "2026-08-06T00:21:22-07:00",
+      "link": "https://www.producthunt.com/products/vidaya",
+      "summary": "Healthspan score from your wearables, labs, and DNA. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
