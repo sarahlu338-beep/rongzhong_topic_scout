@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:32:53Z",
+  "generated_at": "2026-08-22T18:25:25Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "SubtitleGenerator",
-      "published_at": "2026-08-15T00:15:03-07:00",
-      "link": "https://www.producthunt.com/products/subtitlegenerator",
-      "summary": "From video to publish-ready AI subtitles—all in one browser Discussion | Link"
+      "title": "KerasFormers",
+      "published_at": "2026-08-20T14:13:37-07:00",
+      "link": "https://www.producthunt.com/products/kerasformers",
+      "summary": "Keras 3 collection of pretrained models Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
