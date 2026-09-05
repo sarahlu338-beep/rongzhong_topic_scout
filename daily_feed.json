@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T02:54:36Z",
+  "generated_at": "2026-09-05T09:56:25Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "GPT-6 Astra",
-      "published_at": "2026-09-03T13:14:40-07:00",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "OpenAI's most capable model for end-to-end work Discussion | Link"
+      "title": "CommuteBar",
+      "published_at": "2026-08-31T20:02:18-07:00",
+      "link": "https://www.producthunt.com/products/commutebar",
+      "summary": "Live commute times in your menu bar Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
