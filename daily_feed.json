@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:14:41Z",
+  "generated_at": "2026-09-06T14:54:43Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Tadata",
-      "published_at": "2025-12-16T12:05:20-08:00",
-      "link": "https://www.producthunt.com/products/tadata",
-      "summary": "The AI employee in Slack that reads the room. Discussion | Link"
+      "title": "Kit by Speakeasy",
+      "published_at": "2026-09-02T07:23:38-07:00",
+      "link": "https://www.producthunt.com/products/speakeasydev",
+      "summary": "Your coding agent runtime. Claude but fast, cheap, concise. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
