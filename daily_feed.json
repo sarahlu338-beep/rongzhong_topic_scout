@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:58:12Z",
+  "generated_at": "2026-09-12T20:11:10Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Youkti",
-      "published_at": "2026-08-14T00:50:59-07:00",
-      "link": "https://www.producthunt.com/products/youkti",
-      "summary": "Finds who's ready to buy, then tells you what to do next Discussion | Link"
+      "title": "FrameSketch",
+      "published_at": "2026-09-10T03:42:55-07:00",
+      "link": "https://www.producthunt.com/products/framesketch",
+      "summary": "Scrub vids frame-by-frame and sketch on them at 60fps Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,10 +52,10 @@
     {
       "source": "界面新闻-财经",
       "type": "website",
-      "title": "财经_界面新闻",
+      "title": "界面新闻-财经",
       "published_at": "",
       "link": "https://www.jiemian.com/lists/800.html",
-      "summary": "width=device-width, initial-scale=1.0\" name=\"viewport\"> <meta content="
+      "summary": "WEBPAGE_ERROR: <urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "source": "科创板日报-头条",
