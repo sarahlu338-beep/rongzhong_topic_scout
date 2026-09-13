@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:35:58Z",
+  "generated_at": "2026-09-13T20:18:03Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Positron AI Receives $875M Series C Round",
-      "published_at": "11 Sep 2026 19:21:33 CDT",
-      "link": "https://vcnewsdaily.com/positron-ai/venture-capital-funding/gjymwlvmwn",
-      "summary": "RENO, NV, Positron AI, the AI inference hardware company built to make serving AI models dramatically cheaper and more energy efficient, has announced an $875 million Series C at a $5 billion post-money valuation."
+      "title": "Upwind Scores $300M",
+      "published_at": "13 Sep 2026 14:04:52 CDT",
+      "link": "https://vcnewsdaily.com/upwind-security/venture-capital-funding/mdsmgvvvwb",
+      "summary": "SAN FRANCISCO, CA, Upwind, a cloud security company, has raised about $300 million at a valuation of roughly $3.8 billion."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "DemoTV",
-      "published_at": "2026-09-08T07:29:16-07:00",
-      "link": "https://www.producthunt.com/products/demotv",
-      "summary": "The audience-ranked TV channel for product demos Discussion | Link"
+      "title": "Perplexity Hybrid Compute",
+      "published_at": "2026-09-08T23:18:58-07:00",
+      "link": "https://www.producthunt.com/products/perplexity-ai",
+      "summary": "Splitting AI tasks: Cloud for research, Mac for privacy Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
