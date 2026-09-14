@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-14T11:45:49Z",
+  "generated_at": "2026-09-14T17:40:03Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Catching the (Venture) Bus",
-      "published_at": "Fri, 11 Sep 2026 14:01:15 GMT",
-      "link": "https://www.a16z.news/p/catching-the-venture-bus",
-      "summary": "A “cottage” no more."
+      "title": "Product Management is Still All About Telling Stories",
+      "published_at": "Mon, 14 Sep 2026 14:02:07 GMT",
+      "link": "https://www.a16z.news/p/product-management-is-still-all-about",
+      "summary": "What AI is changing. What it’s not."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "published_at": "Sun, 13 Sep 2026 20:28:00 +0000",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch."
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "published_at": "Mon, 14 Sep 2026 15:00:00 +0000",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Upwind Scores $300M",
-      "published_at": "13 Sep 2026 14:04:52 CDT",
-      "link": "https://vcnewsdaily.com/upwind-security/venture-capital-funding/mdsmgvvvwb",
-      "summary": "SAN FRANCISCO, CA, Upwind, a cloud security company, has raised about $300 million at a valuation of roughly $3.8 billion."
+      "title": "Lyte Raises $165 Million Series C",
+      "published_at": "14 Sep 2026 11:20:11 CDT",
+      "link": "https://vcnewsdaily.com/lyte-ai/venture-capital-funding/kntdvxhtmr",
+      "summary": "SUNNYVALE, CA, Lyte, the physical AI perception company, announced a $165 million Series C financing led by Maverick Silicon. The round values Lyte at $1.6 billion post-money."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Naoma AI Demo Agent V2",
-      "published_at": "2026-09-09T05:36:36-07:00",
-      "link": "https://www.producthunt.com/products/naoma",
-      "summary": "Turns website traffic into booked, qualified meetings Discussion | Link"
+      "title": "Elva",
+      "published_at": "2026-09-07T06:45:06-07:00",
+      "link": "https://www.producthunt.com/products/elva",
+      "summary": "Goodbye, Postman. Your APIs have new consumers Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
