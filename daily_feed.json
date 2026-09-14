@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:40:03Z",
+  "generated_at": "2026-09-14T21:27:27Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "published_at": "Mon, 14 Sep 2026 15:00:00 +0000",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "published_at": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Lyte Raises $165 Million Series C",
-      "published_at": "14 Sep 2026 11:20:11 CDT",
-      "link": "https://vcnewsdaily.com/lyte-ai/venture-capital-funding/kntdvxhtmr",
-      "summary": "SUNNYVALE, CA, Lyte, the physical AI perception company, announced a $165 million Series C financing led by Maverick Silicon. The round values Lyte at $1.6 billion post-money."
+      "title": "TAR Grabs $120M Series A Round",
+      "published_at": "14 Sep 2026 15:00:20 CDT",
+      "link": "https://vcnewsdaily.com/tar/venture-capital-funding/mcdgfwdndv",
+      "summary": "AUSTIN, TX, TAR, which builds off-grid power systems for AI data centers, has announced a $120 million Series A led by Spark Capital at a $1 billion post-money valuation."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Elva",
-      "published_at": "2026-09-07T06:45:06-07:00",
-      "link": "https://www.producthunt.com/products/elva",
-      "summary": "Goodbye, Postman. Your APIs have new consumers Discussion | Link"
+      "title": "Afterglow",
+      "published_at": "2026-09-09T17:35:06-07:00",
+      "link": "https://www.producthunt.com/products/afterglow-4",
+      "summary": "Run classic After Dark screen savers on modern macOS Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
