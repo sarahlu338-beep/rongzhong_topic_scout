@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:18:03Z",
+  "generated_at": "2026-09-14T03:19:35Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "published_at": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "published_at": "Sun, 13 Sep 2026 20:28:00 +0000",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Perplexity Hybrid Compute",
-      "published_at": "2026-09-08T23:18:58-07:00",
-      "link": "https://www.producthunt.com/products/perplexity-ai",
-      "summary": "Splitting AI tasks: Cloud for research, Mac for privacy Discussion | Link"
+      "title": "Cognition's SWE-2",
+      "published_at": "2026-09-10T15:19:56-07:00",
+      "link": "https://www.producthunt.com/products/cognition-s-swe-2",
+      "summary": "Cognition's coding model, 64% cheaper than Fable 5.1 Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
