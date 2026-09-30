@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-30T11:54:16Z",
+  "generated_at": "2026-09-30T17:35:41Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Who Gets Paid When AI Does the Shopping?",
-      "published_at": "Tue, 29 Sep 2026 16:53:12 GMT",
-      "link": "https://www.a16z.news/p/who-gets-paid-when-ai-does-the-shopping",
-      "summary": "AI Assistants vs Marketplaces"
+      "title": "State of Markets II",
+      "published_at": "Wed, 30 Sep 2026 12:03:43 GMT",
+      "link": "https://www.a16z.news/p/state-of-markets-ii",
+      "summary": "100+ Charts On The State of Markets (1H’26). It's the best. You wouldn't want to miss it."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-      "published_at": "Tue, 29 Sep 2026 21:51:36 +0000",
-      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-      "summary": "EliseAI raises $350M, doubles valuation in a year."
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "published_at": "Wed, 30 Sep 2026 14:30:00 +0000",
+      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Overpath",
-      "published_at": "2026-06-09T08:33:41-07:00",
-      "link": "https://www.producthunt.com/products/overpath-ai",
-      "summary": "Your AI Teammate for Revenue Execution Discussion | Link"
+      "title": "OpenShip",
+      "published_at": "2026-08-11T03:58:55-07:00",
+      "link": "https://www.producthunt.com/products/openship-2",
+      "summary": "Open source PaaS on your server or in the cloud. No lock in. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
