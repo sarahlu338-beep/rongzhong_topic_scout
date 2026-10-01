@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-01T12:25:07Z",
+  "generated_at": "2026-10-01T22:20:01Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Armadin",
-      "published_at": "Thu, 01 Oct 2026 10:02:55 GMT",
-      "link": "https://www.a16z.news/p/investing-in-armadin",
-      "summary": "a16z leads Armadin’s Series B"
+      "title": "Investing in doxxnet",
+      "published_at": "Thu, 01 Oct 2026 16:00:56 GMT",
+      "link": "https://www.a16z.news/p/investing-in-doxxnet",
+      "summary": "a16z leads doxxnet’s Series A"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "published_at": "Wed, 30 Sep 2026 21:07:40 +0000",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "published_at": "Thu, 01 Oct 2026 21:55:22 +0000",
+      "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "AlgoX2 Obtains $10M Seed Extension Funding",
-      "published_at": "30 Sep 2026 14:35:27 CDT",
-      "link": "https://vcnewsdaily.com/algox2/venture-capital-funding/msrvnqvdbv",
-      "summary": "NEW YORK, NY, AlgoX2 has raised a $10 million seed extension led by Bessemer Venture Partners and Fin Capital."
+      "title": "Armadin Scores $255.5M Series B Round",
+      "published_at": "01 Oct 2026 14:37:19 CDT",
+      "link": "https://vcnewsdaily.com/armadin/venture-capital-funding/yfjhddyhbr",
+      "summary": "PALO ALTO, CA, Armadin, an AI-native cybersecurity company building effective autonomous security, today announced it has raised $255.5 million in Series B funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Dots by OpenAI",
-      "published_at": "2026-09-29T11:35:29-07:00",
-      "link": "https://www.producthunt.com/products/dots-by-openai",
-      "summary": "Always on agents built to handle everything Discussion | Link"
+      "title": "Helo",
+      "published_at": "2026-09-30T12:57:02-07:00",
+      "link": "https://www.producthunt.com/products/helo-2",
+      "summary": "An independent email API from former Postmark folks Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
