@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:42:16Z",
+  "generated_at": "2026-10-03T20:35:01Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Muse Gadgets",
-      "published_at": "2026-10-02T19:07:11-07:00",
-      "link": "https://www.producthunt.com/products/muse-22",
-      "summary": "Meta's open-source kit for building your own AI gadgets Discussion | Link"
+      "title": "OTPfill",
+      "published_at": "2026-09-29T01:55:04-07:00",
+      "link": "https://www.producthunt.com/products/otpfill",
+      "summary": "Autofill OTP codes from your email on Mac Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
