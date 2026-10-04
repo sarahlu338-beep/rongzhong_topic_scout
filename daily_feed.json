@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:35:01Z",
+  "generated_at": "2026-10-04T04:16:07Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "OTPfill",
-      "published_at": "2026-09-29T01:55:04-07:00",
-      "link": "https://www.producthunt.com/products/otpfill",
-      "summary": "Autofill OTP codes from your email on Mac Discussion | Link"
+      "title": "FeelMyMac",
+      "published_at": "2026-09-28T14:07:30-07:00",
+      "link": "https://www.producthunt.com/products/feelmymac",
+      "summary": "Lets you feel different textures through your Mac’s trackpad Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,10 +52,10 @@
     {
       "source": "界面新闻-财经",
       "type": "website",
-      "title": "财经_界面新闻",
+      "title": "界面新闻-财经",
       "published_at": "",
       "link": "https://www.jiemian.com/lists/800.html",
-      "summary": "width=device-width, initial-scale=1.0\" name=\"viewport\"> <meta content="
+      "summary": "WEBPAGE_ERROR: <urlopen error _ssl.c:999: The handshake operation timed out>"
     },
     {
       "source": "科创板日报-头条",
