@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T04:00:29Z",
+  "generated_at": "2026-10-05T13:34:56Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Octri.dev",
-      "published_at": "2026-09-21T07:26:18-07:00",
-      "link": "https://www.producthunt.com/products/octri",
-      "summary": "Generate customizable Docs, SDKs, MCP server, and monitoring Discussion | Link"
+      "title": "FastRouter.ai",
+      "published_at": "2026-09-30T15:36:38-07:00",
+      "link": "https://www.producthunt.com/products/fastrouter-ai",
+      "summary": "Route requests to the right LLM for cost, latency & quality Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -71,7 +71,7 @@
       "title": "36氪-首页",
       "published_at": "",
       "link": "https://36kr.com/",
-      "summary": ""
+      "summary": "WEBPAGE_ERROR: The read operation timed out"
     },
     {
       "source": "IT桔子",
