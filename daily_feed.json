@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:43:08Z",
+  "generated_at": "2026-10-06T04:49:23Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "SpeechShield",
-      "published_at": "2026-10-04T08:59:56-07:00",
-      "link": "https://www.producthunt.com/products/speechshield",
-      "summary": "Live interview & meeting copilot for Mac, from your resume Discussion | Link"
+      "title": "Dots UI",
+      "published_at": "2026-10-04T09:18:38-07:00",
+      "link": "https://www.producthunt.com/products/dots-ui",
+      "summary": "A React library for morphable particle interfaces Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
