@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:49:23Z",
+  "generated_at": "2026-10-06T12:44:09Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Dots UI",
-      "published_at": "2026-10-04T09:18:38-07:00",
-      "link": "https://www.producthunt.com/products/dots-ui",
-      "summary": "A React library for morphable particle interfaces Discussion | Link"
+      "title": "Chunk",
+      "published_at": "2026-10-05T15:42:56-07:00",
+      "link": "https://www.producthunt.com/products/chunk-2",
+      "summary": "The time-blocking app for macOS Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
