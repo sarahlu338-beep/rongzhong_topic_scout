@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T04:27:39Z",
+  "generated_at": "2026-10-08T12:47:40Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "published_at": "Wed, 07 Oct 2026 23:36:57 +0000",
-      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "published_at": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Plugins Radar",
-      "published_at": "2026-10-05T08:45:50-07:00",
-      "link": "https://www.producthunt.com/products/plugins-radar",
-      "summary": "Search rankings and competitor alerts for ChatGPT plugins Discussion | Link"
+      "title": "OpenSEO - AI Visibility",
+      "published_at": "2026-10-06T21:29:30-07:00",
+      "link": "https://www.producthunt.com/products/openseo",
+      "summary": "The open source Semrush alternative Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
