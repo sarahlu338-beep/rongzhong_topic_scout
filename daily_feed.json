@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:52:09Z",
+  "generated_at": "2026-10-09T04:31:29Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Chime",
-      "published_at": "2026-10-07T01:22:31-07:00",
-      "link": "https://www.producthunt.com/products/chime-sms-categorized-on-device",
-      "summary": "Private SMS categorization that never leaves your device Discussion | Link"
+      "title": "Liquid Inference",
+      "published_at": "2026-10-07T01:14:41-07:00",
+      "link": "https://www.producthunt.com/products/liquid-inference",
+      "summary": "LLM router where providers compete for every prompt Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
