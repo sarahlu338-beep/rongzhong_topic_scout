@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:31:29Z",
+  "generated_at": "2026-10-09T12:33:04Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Liquid Inference",
-      "published_at": "2026-10-07T01:14:41-07:00",
-      "link": "https://www.producthunt.com/products/liquid-inference",
-      "summary": "LLM router where providers compete for every prompt Discussion | Link"
+      "title": "Gemini Agent for Google Cloud",
+      "published_at": "2026-10-08T05:31:02-07:00",
+      "link": "https://www.producthunt.com/products/google",
+      "summary": "The work agent that runs on both Gemini and Claude Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
