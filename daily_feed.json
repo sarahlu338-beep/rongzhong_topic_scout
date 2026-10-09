@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-09T12:33:04Z",
+  "generated_at": "2026-10-09T22:13:56Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "You Need a New CFO",
-      "published_at": "Thu, 08 Oct 2026 14:02:36 GMT",
-      "link": "https://www.a16z.news/p/you-need-a-new-cfo",
-      "summary": "In 2020, CFOs needed new tools. Now the tools are changing the role."
+      "title": "This Week in Charts: Are Prediction Markets Politically Biased?",
+      "published_at": "Fri, 09 Oct 2026 16:31:10 GMT",
+      "link": "https://www.a16z.news/p/this-week-in-charts-are-prediction",
+      "summary": "Rule of 40 Ain’t What It Used To Be; Atoms keep winning, but what about everyone else?; AI Has Come For Call Centers, After All?"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "published_at": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "published_at": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "TypeSafe AI raised $870 million in a round led by a16Z."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Agentiq Sports Lands $4M Funding",
-      "published_at": "07 Oct 2026 15:16:14 CDT",
-      "link": "https://vcnewsdaily.com/agentiq-sports/venture-capital-funding/ksttfjrhjb",
-      "summary": "SAN FRANCISCO, CA, Agentiq Sports, the fintech platform allowing fans to indirectly invest in professional athletes' careers, announced $4 million in funding."
+      "title": "Torch Systems Raises $11.5M",
+      "published_at": "09 Oct 2026 15:33:39 CDT",
+      "link": "https://vcnewsdaily.com/torch-systems/venture-capital-funding/szyypgmtwg",
+      "summary": "LAFAYETTE, CA, Torch Systems, an outdoor asset intelligence company bringing AI-powered monitoring to critical infrastructure, has announced $11.5 million funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Gemini Agent for Google Cloud",
-      "published_at": "2026-10-08T05:31:02-07:00",
-      "link": "https://www.producthunt.com/products/google",
-      "summary": "The work agent that runs on both Gemini and Claude Discussion | Link"
+      "title": "Porch",
+      "published_at": "2026-10-08T21:53:12-07:00",
+      "link": "https://www.producthunt.com/products/porch-6",
+      "summary": "local project summaries and cost tracking for AI coding Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
