@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:13:56Z",
+  "generated_at": "2026-10-10T04:17:13Z",
   "items": [
     {
       "source": "a16z News",
@@ -15,7 +15,7 @@
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "published_at": "Fri, 09 Oct 2026 21:41:29 +0000",
       "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary": "TypeSafe AI raised $870 million in a round led by a16Z."
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Porch",
-      "published_at": "2026-10-08T21:53:12-07:00",
-      "link": "https://www.producthunt.com/products/porch-6",
-      "summary": "local project summaries and cost tracking for AI coding Discussion | Link"
+      "title": "iwant",
+      "published_at": "2026-10-08T21:20:47-07:00",
+      "link": "https://www.producthunt.com/products/iwant",
+      "summary": "Find available GPUs and host open models in one command Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
