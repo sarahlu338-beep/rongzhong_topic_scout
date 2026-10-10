@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:53:41Z",
+  "generated_at": "2026-10-10T16:57:06Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "published_at": "Fri, 09 Oct 2026 21:41:29 +0000",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "published_at": "Sat, 10 Oct 2026 16:25:42 +0000",
+      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Kitbar",
-      "published_at": "2026-10-08T06:54:25-07:00",
-      "link": "https://www.producthunt.com/products/kitbar",
-      "summary": "Your dev tools, in one bar. Discussion | Link"
+      "title": "Baby Desk",
+      "published_at": "2026-10-06T11:22:22-07:00",
+      "link": "https://www.producthunt.com/products/baby-desk",
+      "summary": "Let your baby smash the keyboard and your work stays safe Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
