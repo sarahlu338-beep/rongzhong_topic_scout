@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T02:57:40Z",
+  "generated_at": "2026-10-17T10:07:38Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Parallax",
-      "published_at": "2026-10-15T12:25:02-07:00",
-      "link": "https://www.producthunt.com/products/parallax-5",
-      "summary": "Every coding agent you run, in one place. Discussion | Link"
+      "title": "NitroStack",
+      "published_at": "2026-10-08T08:53:30-07:00",
+      "link": "https://www.producthunt.com/products/nitrostack",
+      "summary": "Build, test, and deploy MCP servers in one place Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
