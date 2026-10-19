@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:05:54Z",
+  "generated_at": "2026-10-19T21:59:06Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-      "published_at": "Mon, 19 Oct 2026 07:30:00 +0000",
-      "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-      "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India."
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "published_at": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Switched Source Secures $17M",
-      "published_at": "16 Oct 2026 15:03:25 CDT",
-      "link": "https://vcnewsdaily.com/switched-source/venture-capital-funding/jllcybzkjv",
-      "summary": "CHICAGO, IL, Switched Source, a leading developer of grid-enhancing distribution automation technologies, has secured over $17 million in funding."
+      "title": "Fragment Grabs $12M Series A Round",
+      "published_at": "19 Oct 2026 15:04:12 CDT",
+      "link": "https://vcnewsdaily.com/fragment/venture-capital-funding/vtqrtrhrlx",
+      "summary": "NEW YORK, NY, Fragment, an AI-enabled financial infrastructure startup, raised $12 million to help vertical AI businesses automate their customers' financial operations."
     },
     {
       "source": "YC Launches",
@@ -36,18 +36,18 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "face2social",
-      "published_at": "2026-09-23T13:15:43-07:00",
-      "link": "https://www.producthunt.com/products/face2social",
-      "summary": "Search By Face. Know Who's Real. Discussion | Link"
+      "title": "Lookout (for Slack)",
+      "published_at": "2026-10-16T17:44:10-07:00",
+      "link": "https://www.producthunt.com/products/lookout-for-slack",
+      "summary": "Urgent Slack messages, handled instantly. Powered by Jev. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "TypeSafe: The Jevolution",
-      "published_at": "Sat, 10 Oct 2026 00:00:00 -0000",
-      "link": "https://www.sequoiacap.com/article/typesafe-the-jevolution",
-      "summary": "What if machine intelligence were as dependable as a database query?"
+      "title": "Partnering with Blacksmith",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0000",
+      "link": "https://www.sequoiacap.com/article/partnering-with-blacksmith",
+      "summary": "JP, Aayush and Maru are building infrastructure for developers to validate and ship trustworthy code as fast as agents can write it."
     },
     {
       "source": "界面新闻-财经",
