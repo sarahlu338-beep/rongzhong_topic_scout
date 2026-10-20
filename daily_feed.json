@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:21:51Z",
+  "generated_at": "2026-10-20T10:55:00Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Lookout (for Slack)",
-      "published_at": "2026-10-16T17:44:10-07:00",
-      "link": "https://www.producthunt.com/products/lookout-for-slack",
-      "summary": "Urgent Slack messages, handled instantly. Powered by Jev. Discussion | Link"
+      "title": "Hoistbay",
+      "published_at": "2026-10-09T02:18:23-07:00",
+      "link": "https://www.producthunt.com/products/hoistbay",
+      "summary": "Open-source desktop app for Amazon S3 and CloudFront Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
