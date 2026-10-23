@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:59:24Z",
+  "generated_at": "2026-10-23T16:26:40Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Meet the a16z Ops Engineering Fellows",
-      "published_at": "Thu, 22 Oct 2026 16:30:53 GMT",
-      "link": "https://www.a16z.news/p/meet-the-a16z-ops-engineering-fellows",
-      "summary": "The 40 fellows we’ve selected to join the inaugural cohort"
+      "title": "Patch or Die",
+      "published_at": "Fri, 23 Oct 2026 14:20:41 GMT",
+      "link": "https://www.a16z.news/p/patch-or-die",
+      "summary": "Five Drastic Changes Every Company Leader Should Consider Now"
     },
     {
       "source": "TechCrunch Startups",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Agent Hunt",
-      "published_at": "2026-10-22T21:03:20-07:00",
-      "link": "https://www.producthunt.com/products/monid",
-      "summary": "Live rankings of the tools AI agents use most Discussion | Link"
+      "title": "MOVO AI",
+      "published_at": "2026-09-18T22:45:58-07:00",
+      "link": "https://www.producthunt.com/products/movo-ai",
+      "summary": "The world's first long-form video agent for mobile Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
