@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-27T11:34:53Z",
+  "generated_at": "2026-10-27T17:26:57Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Announcing the Third a16z New Media Fellowship",
-      "published_at": "Mon, 26 Oct 2026 16:58:44 GMT",
-      "link": "https://www.a16z.news/p/announcing-the-third-a16z-nmf",
-      "summary": "NMF3 will run for eight weeks, starting in January 2027"
+      "title": "Databricks & the Future of the Firm",
+      "published_at": "Tue, 27 Oct 2026 14:02:28 GMT",
+      "link": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+      "summary": "How agents and new database technology will change the shape of the firm—and what we do at work all day"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "published_at": "Tue, 27 Oct 2026 14:59:09 +0000",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Orbit",
-      "published_at": "2026-10-14T07:54:42-07:00",
-      "link": "https://www.producthunt.com/products/orbit-app-blocker",
-      "summary": "Stop doomscrolling. Earn every app unlock. Discussion | Link"
+      "title": "Revix AI",
+      "published_at": "2026-10-26T14:29:10-07:00",
+      "link": "https://www.producthunt.com/products/revix-ai-2",
+      "summary": "AI code review that learns your repo's own rules Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
