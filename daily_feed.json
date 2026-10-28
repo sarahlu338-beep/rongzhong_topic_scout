@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-28T12:05:21Z",
+  "generated_at": "2026-10-28T22:09:35Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Databricks & the Future of the Firm",
-      "published_at": "Tue, 27 Oct 2026 14:02:28 GMT",
-      "link": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-      "summary": "How agents and new database technology will change the shape of the firm—and what we do at work all day"
+      "title": "The New Security Agenda",
+      "published_at": "Wed, 28 Oct 2026 16:00:31 GMT",
+      "link": "https://www.a16z.news/p/the-new-security-agenda",
+      "summary": "What CISOs told us about AI, budgets, and the priorities shaping 2027."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "published_at": "Wed, 28 Oct 2026 01:15:28 +0000",
-      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "published_at": "Wed, 28 Oct 2026 19:05:46 +0000",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Maxinsights Inks $30M Seed Round",
-      "published_at": "27 Oct 2026 18:41:01 CDT",
-      "link": "https://vcnewsdaily.com/maxinsights/venture-capital-funding/dhvbcjhfhq",
-      "summary": "SANTA CLARA, CA, Maxinsights, the company building the data layer for physical AI, has announced $30 million in seed funding."
+      "title": "Casap Scores $56M Series B Funding",
+      "published_at": "28 Oct 2026 14:34:24 CDT",
+      "link": "https://vcnewsdaily.com/casap/venture-capital-funding/qwgsdvyssv",
+      "summary": "NEW YORK, NY, Casap, the AI agent platform for financial services, announced a $56 million Series B funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "OpenLLM",
-      "published_at": "2026-10-27T23:14:57-07:00",
-      "link": "https://www.producthunt.com/products/openllm",
-      "summary": "Take your AI tokens anywhere Discussion | Link"
+      "title": "Dotverse",
+      "published_at": "2026-10-26T07:16:17-07:00",
+      "link": "https://www.producthunt.com/products/dotverse",
+      "summary": "Your Dot now with a crew Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
