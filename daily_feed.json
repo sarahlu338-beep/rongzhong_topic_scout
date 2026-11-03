@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-02T14:44:21Z",
+  "generated_at": "2026-11-03T00:28:48Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Welcome Andy Baker",
-      "published_at": "Mon, 02 Nov 2026 14:01:31 GMT",
-      "link": "https://www.a16z.news/p/welcome-andy-baker",
-      "summary": "Andy Baker, former U.S. Deputy National Security Advisor, joins as an Advisor to a16z’s Global Affairs mission."
+      "title": "Investing in Tutor Intelligence",
+      "published_at": "Mon, 02 Nov 2026 16:05:44 GMT",
+      "link": "https://www.a16z.news/p/investing-in-tutor-intelligence",
+      "summary": "a16z leads Tutor Intelligence’s Series B"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
-      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "published_at": "Mon, 02 Nov 2026 23:13:53 +0000",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "The one-year-old startup is now valued at $300 million."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Serval Secures $150M Series C Round",
-      "published_at": "30 Oct 2026 15:05:18 CDT",
-      "link": "https://vcnewsdaily.com/serval/venture-capital-funding/cpnbchqnwr",
-      "summary": "SAN FRANCISCO, CA, Serval, the enterprise service management and automation platform, has announced a $150 million Series C led by Sequoia, valuing the company at $3 billion."
+      "title": "Dren Bio Announces $350 Million Financing",
+      "published_at": "02 Nov 2026 14:18:22 CDT",
+      "link": "https://vcnewsdaily.com/dren-bio/venture-capital-funding/hldfmdwdly",
+      "summary": "SAN CARLOS, CA, Dren Bio, a privately held, clinical-stage biotechnology company developing first-in-class antibody therapeutics, announced the closing of an oversubscribed $350 million private financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "beacon.sh",
-      "published_at": "2026-10-25T07:47:53-07:00",
-      "link": "https://www.producthunt.com/products/asymptotelabs",
-      "summary": "Open-source self-improving memory for AI coding agents Discussion | Link"
+      "title": "diff-tour",
+      "published_at": "2026-10-29T00:28:50-07:00",
+      "link": "https://www.producthunt.com/products/diff-tour",
+      "summary": "AI writes the code. Learn to read it like a senior engineer. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
