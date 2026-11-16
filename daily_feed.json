@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T04:42:46Z",
+  "generated_at": "2026-11-16T14:45:24Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "published_at": "Sun, 15 Nov 2026 23:30:00 +0000",
-      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "published_at": "Mon, 16 Nov 2026 12:30:00 +0000",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Emayler",
-      "published_at": "2026-11-12T15:32:53-08:00",
-      "link": "https://www.producthunt.com/products/emayler",
-      "summary": "Custom email on your domain, minus the headache Discussion | Link"
+      "title": "OpenBot",
+      "published_at": "2026-08-25T07:23:36-07:00",
+      "link": "https://www.producthunt.com/products/copilotkit",
+      "summary": "Grok Bot alternative: self-host, fully customize, any stack Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
