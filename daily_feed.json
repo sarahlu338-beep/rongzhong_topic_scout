@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-16T14:45:24Z",
+  "generated_at": "2026-11-17T01:33:29Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Big Pharma Can Rival Big Software",
-      "published_at": "Fri, 13 Nov 2026 15:03:24 GMT",
-      "link": "https://www.a16z.news/p/big-pharma-can-rival-big-software",
-      "summary": "AI Will Make Pharma Even Bigger"
+      "title": "The Dream of the 1990s Is Alive Again in Cybersecurity",
+      "published_at": "Mon, 16 Nov 2026 15:02:26 GMT",
+      "link": "https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again",
+      "summary": "History is indeed repeating itself, which is actually good news"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "published_at": "Mon, 16 Nov 2026 12:30:00 +0000",
-      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "published_at": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Garage Obtains $41M Series B",
-      "published_at": "13 Nov 2026 14:06:57 CDT",
-      "link": "https://vcnewsdaily.com/garage/venture-capital-funding/xrypgrgmxz",
-      "summary": "NEW YORK, NY, Garage, the leading AI-powered marketplace for America's essential equipment, announced $41 million in Series B funding."
+      "title": "Remedy Robotics Finalizes $62M Series B Funding",
+      "published_at": "16 Nov 2026 14:23:12 CDT",
+      "link": "https://vcnewsdaily.com/remedy-robotics/venture-capital-funding/jzgfgwqybl",
+      "summary": "SAN FRANCISCO, CA, Remedy Robotics, a leading healthcare and physical AI company developing robotic systems for cardiovascular care and endovascular intervention, announced it has raised $62 million in Series B funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "OpenBot",
-      "published_at": "2026-08-25T07:23:36-07:00",
-      "link": "https://www.producthunt.com/products/copilotkit",
-      "summary": "Grok Bot alternative: self-host, fully customize, any stack Discussion | Link"
+      "title": "Cal.com v7",
+      "published_at": "2026-11-15T06:46:35-08:00",
+      "link": "https://www.producthunt.com/products/cal",
+      "summary": "Cal.com now has events, discover, an assistant + more Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
