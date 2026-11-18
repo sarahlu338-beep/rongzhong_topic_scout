@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-17T15:28:50Z",
+  "generated_at": "2026-11-18T00:30:19Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in First Person Labs",
-      "published_at": "Tue, 17 Nov 2026 15:10:59 GMT",
-      "link": "https://www.a16z.news/p/investing-in-first-person-labs",
-      "summary": "a16z invests in First Person Labs"
+      "title": "The Boring Company & the Future Underground",
+      "published_at": "Tue, 17 Nov 2026 15:30:54 GMT",
+      "link": "https://www.a16z.news/p/the-boring-company-and-the-future",
+      "summary": "How cheaper tunneling could put traffic underground and finally make Elon Musk’s hyperloop possible"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-      "published_at": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-      "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had."
+      "title": "",
+      "published_at": "",
+      "link": "https://techcrunch.com/category/startups/feed/",
+      "summary": "FETCH_ERROR: HTTP Error 403: Forbidden"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Remedy Robotics Finalizes $62M Series B Funding",
-      "published_at": "16 Nov 2026 14:23:12 CDT",
-      "link": "https://vcnewsdaily.com/remedy-robotics/venture-capital-funding/jzgfgwqybl",
-      "summary": "SAN FRANCISCO, CA, Remedy Robotics, a leading healthcare and physical AI company developing robotic systems for cardiovascular care and endovascular intervention, announced it has raised $62 million in Series B funding."
+      "title": "Aarden Receives $8M Financing Round",
+      "published_at": "17 Nov 2026 15:06:50 CDT",
+      "link": "https://vcnewsdaily.com/aarden/venture-capital-funding/zldzlvnzgw",
+      "summary": "SEATTLE, WA, Today, Aarden announced it has raised $8 million led by Overture Ventures, with participation from Madrona and Propeller Ventures."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Creatify Max",
-      "published_at": "2026-11-09T10:35:24-08:00",
-      "link": "https://www.producthunt.com/products/creatify",
-      "summary": "Your ad teammate, from strategy to creation to launch Discussion | Link"
+      "title": "superlog",
+      "published_at": "2026-11-15T09:20:53-08:00",
+      "link": "https://www.producthunt.com/products/superlog",
+      "summary": "Finds the production bugs your monitoring never sees Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
