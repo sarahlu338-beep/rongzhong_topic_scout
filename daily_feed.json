@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:16:54Z",
+  "generated_at": "2026-11-20T14:52:49Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Stripo Email Widgets",
-      "published_at": "2026-11-11T00:31:59-08:00",
-      "link": "https://www.producthunt.com/products/stripo-email",
-      "summary": "Put a game, quiz or survey in your next email. No coding Discussion | Link"
+      "title": "tensorViz",
+      "published_at": "2026-11-12T13:35:14-08:00",
+      "link": "https://www.producthunt.com/products/tensorviz",
+      "summary": "Let your coding agent see inside your PyTorch model Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
