@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:21:42Z",
+  "generated_at": "2026-11-24T03:47:45Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Scuba Raises $34M Pre-Seed and Seed",
-      "published_at": "20 Nov 2026 15:03:12 CDT",
-      "link": "https://vcnewsdaily.com/scuba/venture-capital-funding/kyqhmvgrjd",
-      "summary": "NEW YORK, NY, Scuba, the shared context engine for teams and their agents, has emerged from stealth with $34 million in funding over two rounds."
+      "title": "LanceDB Snares $57.5M Series B Funding",
+      "published_at": "23 Nov 2026 14:28:10 CDT",
+      "link": "https://vcnewsdaily.com/lancedb/venture-capital-funding/vhqnsnxgmt",
+      "summary": "SAN FRANCISCO, CA, LanceDB has raised $57.5M in its Series B funding to bring the LanceDB multimodal lakehouse to its users."
     },
     {
       "source": "YC Launches",
@@ -36,18 +36,18 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Dog Translator SuperTranslator",
-      "published_at": "2026-11-05T06:56:09-08:00",
-      "link": "https://www.producthunt.com/products/dog-translator-supertranslator",
-      "summary": "Dogs talking in English (real) Discussion | Link"
+      "title": "Replit Missions",
+      "published_at": "2026-11-22T09:13:25-08:00",
+      "link": "https://www.producthunt.com/products/replit",
+      "summary": "Set a budget, coordinate teams of AI agents, Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Edelbyte: Data Infrastructure That Keeps Up With AI's Curiosity",
-      "published_at": "Wed, 11 Nov 2026 00:00:00 -0000",
-      "link": "https://www.sequoiacap.com/article/partnering-with-edelbyte-data-infrastructure-that-keeps-up-with-ai-s-curiosity",
-      "summary": "AI agents will ask far more questions of a company's data than people ever did. Edelbyte is building the data platform that can answer all of them, fast and at a price that makes sense."
+      "title": "Partnering with Isomorphic Labs: Drug Discovery Is an AI Problem",
+      "published_at": "Mon, 23 Nov 2026 00:00:00 -0000",
+      "link": "https://www.sequoiacap.com/article/partnering-with-isomorphic-labs-drug-discovery-is-an-ai-problem",
+      "summary": "Demis Hassabis, Max Jaderberg and their team are on a mission to improve human health by solving disease with AI."
     },
     {
       "source": "界面新闻-财经",
