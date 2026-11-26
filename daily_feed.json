@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:32:13Z",
+  "generated_at": "2026-11-26T16:21:42Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "VibeCode.surf",
-      "published_at": "2026-11-21T04:32:45-08:00",
-      "link": "https://www.producthunt.com/products/vibecode-surf",
-      "summary": "AI code editor where agents build, run and test your app Discussion | Link"
+      "title": "Claude-Mem Cloud Sync",
+      "published_at": "2026-11-25T23:58:18-08:00",
+      "link": "https://www.producthunt.com/products/claude-mem",
+      "summary": "Switch devices. Keep your AI agents' memory. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
